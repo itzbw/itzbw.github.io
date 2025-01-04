@@ -1,0 +1,15 @@
+{
+  "graph": {
+    "/posts/post000/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/posts/post000/": {
+      "permalink": "/posts/post000/",
+      "section": "posts",
+      "title": "First Post"
+    }
+  }
+}
